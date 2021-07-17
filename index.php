@@ -1,7 +1,10 @@
 <?php
 
 echo "My first php project";
+echo "<br>";
 
-phpinfo();
+echo "May name Kelvin and Ahmed";
+
+
 
 ?>
